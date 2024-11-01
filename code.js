@@ -131,7 +131,7 @@ function UpdateTeamHub() {
 }
 
 function UpdateColorCodes() {
-  var sheets = ["ATL", "BOS", "BRK", "CHA", "CHI", "CLE", "DAL", "DEN", "DET", "GSW", "HOU", "IND", "LAC", "LAL", "MEM", "MIA", "MIL", "MIN", "NOP", "NYK", "OKC", "ORL", "PHI", "PHX", "POR", "SAS", "SAC", "TOR", "UTA", "WAS"];
+  var sheets = ["ATL", "BOS", "BRK"];
   var bottomUpRanges = ["G4:G21", "V4:V21", "AA4:AA21"];
   var topDownRanges = ["J4:J21", "L4:L21", "M4:M21", "N4:N21", "O4:O21", "P4:P21", "Q4:Q21", "R4:R21", "S4:S21", "T4:T21", "U4:U21", "W4:W21", "X4:X21", "Y4:Y21", "Z4:Z21"];
   var heights = ["H4:H21", "I4:I21"];
